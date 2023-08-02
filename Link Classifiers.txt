@@ -1,0 +1,1 @@
+https://github.com/luizeo/facedetection__pythonopencv_classifiers.git
